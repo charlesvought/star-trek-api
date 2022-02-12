@@ -1,2 +1,2 @@
 # star-trek-api
-Junk code
+Help Mat query the api
